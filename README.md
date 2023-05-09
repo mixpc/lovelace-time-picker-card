@@ -17,7 +17,7 @@ Requires an [Input Datetime](https://www.home-assistant.io/integrations/input_da
 
 ### HACS
 
-Install using [HACS](https://hacs.xyz) and add the following to your config:
+Install using [HACS](https://hacs.xyz) and add the following to your config [Settings > Dashboard > Three dots > Resources > + Add Resource > Paste URL and select JavaScript module > Click Create:
 
 ```yaml
 resources:
